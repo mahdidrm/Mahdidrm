@@ -1,10 +1,15 @@
-- Welcome to my page. At first I must say that some codes are not yet visible as we are waiting for our paper acceptance. Thank you for your patient
-- 👋 Hi, I’m Mahdi
-- 👀 I’m interested in Deep Learning and Machine Vision challanges.
-- 🌱 I’m currently learning deep neural networks and their applications on image processing and machine vision.
-- 💞️ I’m looking to collaborate on any machine vision projects which related to medical science.
-- 📫 How to reach me ? mehdidrm@gmail.com
-- My LinkedIn page: https://www.linkedin.com/in/deramgozin/
+# 👋 Hi, I’m Mahdi 
+
+Welcome to my page!
+
+🎓 I hold a PhD in Machine vision and Machine Learning from the Institute Jean Lamour, University of Lorraine, france.  
+💼 I currently work as an AI Project lead at Gautier Semences, developing intelligent tools in computer vision, phenotyping, and applied AI.  
+🔍 My interests include deep learning, computer vision, and practical machine learning — especially in agriculture and medical fields.  
+
+> ⚠️ Some project code is temporarily private while awaiting academic publication. Thanks for your understanding!
+
+📫 **Email**: mehdidrm@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/deramgozin/)
 
 <!---
 Mahdidrm/Mahdidrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
